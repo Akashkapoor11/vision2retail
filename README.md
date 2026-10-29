@@ -190,5 +190,5 @@ The automated tests cover configuration, upload-path handling, API-level upload/
 
 ## Project pitch
 
-**Vision2Retail converts authorized store video into structured, inspectable computer-vision outputs.** YOLOv8 provides object detections; ByteTrack associates detections across frames; a FastAPI service queues and reports jobs; PostgreSQL stores sampled evidence and metrics; and a Next.js dashboard makes outputs easy to inspect. Its value proposition is a reproducible path from video input to traceable visual results—paired with explicit limitations and honest measurement.
+**Vision2Retail converts authorized store video into structured, inspectable computer-vision outputs.** YOLOv8 provides object detections; ByteTrack associates detections across frames; a FastAPI service queues and reports jobs; PostgreSQL stores sampled evidence and metrics; and a Next.js dashboard makes outputs easy to inspect. Its value proposition is a reproducible path from video input to traceable visual results-paired with explicit limitations and honest measurement.
 
