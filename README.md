@@ -2,7 +2,7 @@
 
 > **Turn authorized retail store footage into structured operational intelligence - automatically.**
 
-Vision2Retail is a **production-grade, end-to-end computer-vision platform** that detects objects with **YOLOv8**, tracks customers across frames with **ByteTrack**, generates spatial heatmaps, persists metrics to **PostgreSQL**, and surfaces everything in a live **Next.js dashboard** — all deployed with a single `docker compose up`.
+Vision2Retail is a **production-grade, end-to-end computer-vision platform** that detects objects with **YOLOv8**, tracks customers across frames with **ByteTrack**, generates spatial heatmaps, persists metrics to **PostgreSQL**, and surfaces everything in a live **Next.js dashboard** - all deployed with a single `docker compose up`.
 
 |  Problem | Solution |  Impact |
 |------------|------------|----------|
