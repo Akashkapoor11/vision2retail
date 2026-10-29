@@ -1,17 +1,10 @@
-# Vision2Retail — AI-Powered Store Intelligence
+# Vision2Retail - AI-Powered Store Intelligence
 
-> **Turn authorized retail store footage into structured operational intelligence — automatically.**
-
-![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.15x-009688?logo=fastapi)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
-![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
-![License](https://img.shields.io/badge/License-MIT-green)
+> **Turn authorized retail store footage into structured operational intelligence - automatically.**
 
 Vision2Retail is a **production-grade, end-to-end computer-vision platform** that detects objects with **YOLOv8**, tracks customers across frames with **ByteTrack**, generates spatial heatmaps, persists metrics to **PostgreSQL**, and surfaces everything in a live **Next.js dashboard** — all deployed with a single `docker compose up`.
 
-| 🎯 Problem | 💡 Solution | 📈 Impact |
+|  Problem | Solution |  Impact |
 |------------|------------|----------|
 | Retail CCTV footage goes 99% unanalyzed | Automated CV pipeline on any store video | From ₹20–50L/year to ₹0 |
 | Enterprise tools inaccessible to SMBs | Self-hosted, one-command deployment | Insights in minutes, not days |
